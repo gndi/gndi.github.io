@@ -25,4 +25,4 @@
   * Bash, scripting tools (grep)
   * SCSS
   * Javascript
-  
+  * Markdown https://en.wikipedia.org/wiki/Markdown
